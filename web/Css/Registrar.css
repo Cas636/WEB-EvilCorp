@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.fondo2{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    background-image: url(../Media/UD.png);
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+#grupos2{
+    width: 800px;
+    height: 630px;
+    background-color: RGBA(95, 106, 106, 0.85);
+    padding-top: 25px;
+    margin: auto;
+}
+article{
+    width: 200px;
+    height: 250px;
+    margin: auto;
+}
+#formulario{
+    width: 200px;
+    margin-top: 20px;
+    justify-content: center;
+    color: white
+}
+#selector1{
+    width: 200px;
+    margin-top: 10px;
+    text-align: center;
+    justify-content: center
+}
+.ir{
+    width: 200px;
+    margin-top: 10px;
+    margin: auto;
+}
+
+#caracter{
+    width: 200px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#dia{
+    width: 66px;
+    margin-top: 10px;
+    text-align: center;
+    margin: auto
+}
+#mes{
+    width: 66px;
+    margin-top: 10px;
+    text-align: center;
+    margin: auto
+}
+#amo{
+    width: 66px;
+    margin-top: 10px;
+    text-align: center;
+    margin: auto
+}
+.textos{
+    color: white
+}
+p{
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    background-color: RGBA(95, 106, 106, 0.85); 
+}

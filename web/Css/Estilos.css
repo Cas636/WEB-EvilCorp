@@ -1,0 +1,175 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+article{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #D5DBDB;
+}
+div{
+    margin: auto
+}
+.iconos{
+    width: 12%;
+    height: 70px;
+    margin: auto;
+    margin-top: 35px; 
+    text-align: center;
+    color: #2471A3;
+    font-size: 20px;
+    text-align: center;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+#logo{
+    width: 12%;
+    height: 70px;
+    background-image: url(../Media/UD.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+main >div{
+    width: 100%;
+    height: 600px;
+    background-image: url(../Media/call-center.jpg);
+    background-position: center;
+    margin-top: 60px;
+}
+p{
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #0f1d4c;
+    margin: auto;
+    text-align: center;
+    color: white;
+    font-family:fantasy;
+    font-size: 85px
+}
+footer{
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: #D5DBDB;
+    margin-top: 60px;
+}
+
+.redes{
+    width: 20px;
+    height: 20px;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 35px;
+    margin-right: 20px;
+}
+#face{
+    background-image: url(../Media/facebook.png);
+    background-size: cover;
+}
+#pajaro{
+    background-image: url(../Media/twiter.png);
+    background-size: cover;
+}
+#insta{
+    background-image: url(../Media/instagram.png);
+    background-size: cover;
+}
+#you{
+    background-image: url(../Media/youtube.png);
+    background-size: cover;
+} 
+.fondo{
+    width: 100%;
+    height: 100%;
+    background-color: RGBA(95, 106, 106, 0.5);
+    padding-top: 100px;
+    padding-bottom: 100px;
+    display: none;
+    position:fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.grupos{
+    width: 400px;
+    height: 500px;
+    margin: auto;
+    background-color: white;
+    margin-bottom: 20px;
+}
+.foto{
+    width: 250px;
+    height: 80px;
+    margin-bottom: 15px;
+    background-image:url(../Media/usuario-de-perfil.png);
+    background-position: center;
+    background-size: contain; 
+    background-repeat: no-repeat;
+    margin: auto;
+}
+.cerrar{
+    width: 400px;
+    height: 25px;
+    margin-bottom: 10px;
+    background-image: url(../Media/cancelar.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position:right;
+}
+#myform{
+    width: 200px;
+    margin: auto;
+    margin-top: 15px;
+}
+.go{
+    width: 200px;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center
+}
+#email{
+    width: 200px;
+    margin: auto;
+    margin-top: 10px;
+}
+#nikc1{
+    width: 200px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#olvido{
+    margin-top: 10px;
+    text-align: center
+}
+#selector{
+    width: 200px;
+    margin-top: 10px;
+    text-align: center;
+}
+#arreglo{
+    width: 240px;
+    height: 300px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: white;
+    text-align: center
+}
+#cosa:target{
+    display: block;
+}
+a{
+    text-decoration:none
+}
+#buscar{
+    display: flex;
+    flex-wrap: wrap
+}
+
+

@@ -35,6 +35,6 @@ git clone https://github.com/Cas636/WEB-EvilCorp.git
 5. Accede a la aplicación a través del navegador utilizando la URL correspondiente al servidor y la ruta de la aplicación.
 
 ![](/recursos/img1.png)
-![](/recursos/img2.png)
+<!--![](/recursos/img2.png)-->
 ![](/recursos/img3.png)
 ![](/recursos/UMLjpeg.jpeg)# WEB-EvilCorp
